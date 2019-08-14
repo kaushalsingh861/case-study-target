@@ -9,6 +9,7 @@ Method           |API                           |Result
 | POST          | /products|Creates a new product in DB
 | PUT          | /products|Updates product in DB, exception if product not found
 | DELETE          | /products/id|Deletes product in DB with ID number
+| GET          | /init|Deletes all previous data and initializes the app with predefined hard coded values
 
 
 # Case Study Requirements
